@@ -1,27 +1,28 @@
-# _{Timberline Island Resort}_
+# Timberline Island Resort
 
-#### _{HTML and CSS Practice Project for Epicodus}, {8/2/16}_
+#### HTML and CSS Practice Project for Epicodus, 8/2/16
 
-#### By _**{By Matt Nicholas and Michael Andrade}**_
+#### By _**By Matt Nicholas and Michael Andrade**_
 
 ## Description
 
-_{This is the promotional webpage for a semi-fictional resort that is on both a mountain and an island.}_
+This is the promotional webpage for a semi-fictional resort that is on both a mountain and an island.
 
 ## Setup/Installation Requirements
 
-* _Use the browser you are currently reading this in._
-* _Navigate to [URL]_
-* _Enjoy!_
+* Use the browser you are currently reading this in.
+* Navigate to [URL]
+* Enjoy!
 
 ## Known Bugs
 
-_{The Pictures are too awesome to see all at once. Exercise caution.}_
+The Pictures are too awesome to see all at once. Exercise caution.
 
 ## Support and contact details
 
-_Matt Nicholas: fostermatt82@gmail.com
-  Michael Andrade: andrade.michael.e@gmail.com_
+Matt Nicholas: fostermatt82@gmail.com
+
+Michael Andrade: andrade.michael.e@gmail.com
 
 ## Technologies Used
 
@@ -29,6 +30,6 @@ HTML, CSS, Google Image Search
 
 ### License
 
-*{This webpage is licensed under the MIT license.}*
+This webpage is licensed under the MIT license.
 
 Copyright (c) 2016 **_{Michael Andrade and Matt Nicholas}_**
