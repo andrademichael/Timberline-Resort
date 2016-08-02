@@ -32,4 +32,4 @@ HTML, CSS, Google Image Search
 
 This webpage is licensed under the MIT license.
 
-Copyright (c) 2016 **_{Michael Andrade and Matt Nicholas}_**
+Copyright (c) 2016 **_Michael Andrade and Matt Nicholas_**
